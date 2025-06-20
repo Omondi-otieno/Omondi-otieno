@@ -3,7 +3,7 @@ I'm an AI & LLM Specialist and Full-Stack Engineer passionate about building int
 
 🔧 Tech Stack: Python, JavaScript, React, Django, PostgreSQL, AWS, Docker, Transformers
 📚 Interests: LLM training & evaluation, AI system integration, full-stack development
-🔗 Let’s connect:[!LinkedIN](https://linkedin.com/in/otieno-james-243ba0199)
+🔗 Let’s connect:[LinkedIN](https://linkedin.com/in/otieno-james-243ba0199)
 
 
 <!---
