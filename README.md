@@ -4,7 +4,7 @@ I'm an AI & LLM Specialist and Full-Stack Engineer passionate about building int
 🔧 Tech Stack: Python, JavaScript, React, Django, PostgreSQL, AWS, Docker, Transformers
 📚 Interests: LLM training & evaluation, AI system integration, full-stack development
 🔗 Let’s connect:[LinkedIN](https://linkedin.com/in/otieno-james-243ba0199)
-
+🕸️ Checkout my website: https://jamesomondi.vercel.app/
 
 <!---
 Omondi-otieno/Omondi-otieno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
